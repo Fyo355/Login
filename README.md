@@ -6,7 +6,7 @@
 
 ## Puntos Importantes
 
-* Utiliza la base de datos MySQL, el cifrado de las contraseñas esta hecho con argon2 y la generacion aleatoria de uuid se utilizo la Version 4 de UUID
+* Utiliza la base de datos MySQL, el cifrado de las contraseñas esta hecho con argon2 y para la generacion aleatoria de ID se utilizo la Version 4 de UUID
 
 ![image](https://user-images.githubusercontent.com/94048851/205639516-33b8ce47-75fc-4be1-a8af-5f543064db41.png)
 
